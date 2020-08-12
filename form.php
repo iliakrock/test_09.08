@@ -1,30 +1,17 @@
 <?php
 
-$digit = range('1', '100');
+$number = (int) $_POST['number'];
 
-$initials = '7';
+if ($number < 1 || $number > 100 || !is_numeric($_POST['number']) ) {
+    die("Wrong data given");
+}
 
-$first= getRandomElement($digit);
-
-$rndInitials = $first;
-
+$rand = rand(1,100);
 $counter = 1;
 
-while ($initials !== $rndInitials) {
-    $first= getRandomElement($digit);
-
-    $rndInitials = $first . $second . $third;
+do {
+    $rand = rand(1,100);
     $counter++;
-}
+}while ($number != $rand);
 
-echo "My Digit:$rndInitials. Attempt:$counter<br>";
-
-function getRandomElement(array $array): string
-{
-    $len=count($array);
-    $index=rand(0, $len - 1);
-
-    return $array[$index];
-}
-
-print_r($_POST);
+echo "I found $number from $counter attempt";

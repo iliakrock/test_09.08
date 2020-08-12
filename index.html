@@ -3,13 +3,18 @@
 <head>
     <title>Cтраница с формой</title>
     <meta charset='utf-8'>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/js/bootstrap.min.js" integrity="sha384-oesi62hOLfzrys4LxRF63OJCXdXDipiYWBnvTl9Y9/TRlw5xlKIEHpNyvvDShgf/" crossorigin="anonymous"></script>
 </head>
 <body>
-<form action="/form.php" method="post">
-    Digit: <label>
-    <input digit="login" type="text" value="7">
-</label><br />
-    <input type="submit" value="Нажмите кнопку, чтобы запустить сценарий!">
-</form>
+<div class="container">
+    <h1>Test Form</h1>
+    <form action="http://localhost:9000/form.php" method="POST">
+        <label>
+            <input type="number" name="number" placeholder="Enter the digit">
+        </label>
+        <input type="submit" class="btn btn-success" value="Нажмите кнопку, чтобы запустить сценарий!">
+    </form>
+</div>
 </body>
 </html>

@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d962470-67e6-4e37-a3e3-30cd30ea5987" name="Default Changelist" comment="" />
+    <list default="true" id="3d962470-67e6-4e37-a3e3-30cd30ea5987" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/test_09.08.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/test_09.08.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/form.php" beforeDir="false" afterPath="$PROJECT_DIR$/form.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,15 +37,22 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="1fr2rCBPegOMAtqT9CMI2LIGxUM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -33,6 +60,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -42,29 +70,65 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596962086616</updated>
-      <workItem from="1596962087863" duration="5228000" />
+      <workItem from="1596962087863" duration="6337000" />
+      <workItem from="1597064597449" duration="59000" />
+      <workItem from="1597074215067" duration="2214000" />
+      <workItem from="1597076483762" duration="7000" />
+      <workItem from="1597247459362" duration="2713000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="614" y="187" width="732" height="644" key="#Inspections" timestamp="1596964681987">
       <screen x="50" y="27" width="1870" height="958" />
     </state>
     <state x="614" y="187" width="732" height="644" key="#Inspections/50.27.1870.958@50.27.1870.958" timestamp="1596964681987" />
+    <state x="630" y="130" width="700" height="759" key="#PHP" timestamp="1596970186413">
+      <screen x="50" y="27" width="1870" height="958" />
+    </state>
+    <state x="630" y="130" width="700" height="759" key="#PHP/50.27.1870.958@50.27.1870.958" timestamp="1596970186413" />
     <state x="443" y="164" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596965387825">
       <screen x="50" y="27" width="1870" height="958" />
     </state>
     <state x="443" y="164" key="#com.intellij.execution.impl.EditConfigurationsDialog/50.27.1870.958@50.27.1870.958" timestamp="1596965387825" />
-    <state x="776" y="409" width="417" height="201" key="Github.CreateGistDialog" timestamp="1596969179437">
+    <state x="776" y="409" width="417" height="201" key="Github.CreateGistDialog" timestamp="1596969650603">
       <screen x="50" y="27" width="1870" height="958" />
     </state>
-    <state x="776" y="409" width="417" height="201" key="Github.CreateGistDialog/50.27.1870.958@50.27.1870.958" timestamp="1596969179437" />
+    <state x="776" y="409" width="417" height="201" key="Github.CreateGistDialog/50.27.1870.958@50.27.1870.958" timestamp="1596969650603" />
     <state x="780" y="431" width="399" height="156" key="NewPhpFileDialog" timestamp="1596962098134">
       <screen x="50" y="27" width="1870" height="958" />
     </state>
     <state x="780" y="431" width="399" height="156" key="NewPhpFileDialog/50.27.1870.958@50.27.1870.958" timestamp="1596962098134" />
+    <state x="474" y="141" width="1022" height="737" key="SettingsEditor" timestamp="1596970087733">
+      <screen x="50" y="27" width="1870" height="958" />
+    </state>
+    <state x="474" y="141" width="1022" height="737" key="SettingsEditor/50.27.1870.958@50.27.1870.958" timestamp="1596970087733" />
+    <state x="580" y="242" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1597076413389">
+      <screen x="50" y="27" width="1870" height="958" />
+    </state>
+    <state x="580" y="242" width="800" height="535" key="Vcs.Push.Dialog.v2/50.27.1870.958@50.27.1870.958" timestamp="1597076413389" />
+    <state x="766" y="421" width="438" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596970386595">
+      <screen x="50" y="27" width="1870" height="958" />
+    </state>
+    <state x="766" y="421" width="438" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/50.27.1870.958@50.27.1870.958" timestamp="1596970386595" />
+    <state x="170" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1597250418400">
+      <screen x="50" y="27" width="914" height="958" />
+    </state>
+    <state x="170" y="235" width="672" height="678" key="search.everywhere.popup/50.27.914.958@50.27.914.958" timestamp="1597250418400" />
   </component>
 </project>
